@@ -2,7 +2,8 @@
   <nav>
     <div class="logo">
       <a href="/">
-        <img src="/algonquin-pet-store.png" alt="Algonquin Pet Store Logo">
+        <img src="@/assets/bestbuy-logo.png" alt="Best Buy Logo" class="logo">
+
       </a>
       Admin Portal
     </div>
@@ -40,7 +41,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #c10e0e;
+  background-color: #0046be;
   color: #fff;
   padding-top: 0.5rem;
   padding-left: 1rem;
